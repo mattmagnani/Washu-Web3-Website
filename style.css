@@ -181,10 +181,10 @@ section{
 }
 
 .gallery .box-container .box{
-    border:1rem solid #333;
+    border: 1rem solid #333;
     position: relative;
     border-radius: .5rem;
-    height: 25rem;
+    height: 20rem;
     cursor: pointer;
     overflow: hidden;
 }
