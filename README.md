@@ -1,3 +1,2 @@
 # WashU Web3 Website
-Created WashU's Web3 Website in order to grow the on campus web3 ecosystem
-through education, investments, and alumni connections. The website can be viewed [here](https://mattmagnani.github.io/Washu-Web3-Website/).
+Created WashU's Web3 Website first iteration in order to grow the on campus web3 ecosystem through education, investments, and alumni connections. The website can be viewed [here](https://mattmagnani.github.io/Washu-Web3-Website/).
